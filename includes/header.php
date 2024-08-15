@@ -26,8 +26,8 @@ if (isset($_SESSION['username'])) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png">
-    <title>Facebook</title>
+    <link rel="icon" href="assets/images/favicon/favicon.ico">
+    <title>Social Media Clone</title>
 
     <!-- Javascript -->
 
@@ -36,7 +36,7 @@ if (isset($_SESSION['username'])) {
     <!-- Bootstrap js -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="assets/js/bootbox.min.js"></script>
-    <script src="assets/js/facebook.js"></script>
+    <script src="assets/js/social.js"></script>
     <script src="assets/js/jquery.Jcrop.js"></script>
     <script src="assets/js/jcrop_bits.js"></script>
 
@@ -55,7 +55,7 @@ if (isset($_SESSION['username'])) {
 
     <div class="top_bar">
         <div class="logo">
-            <a href="index.php">Facebook</a>
+            <a href="index.php">Social Clone</a>
         </div>
 
         <!-- SEARCH FORM -->

@@ -13,8 +13,8 @@ require 'includes/form_handlers/login_handler.php'; //login php
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png">
-    <title>Facebook - Register Page</title>
+    <link rel="icon" href="assets/images/favicon/favicon.ico">
+    <title>Social Media Clone - Register Page</title>
     <link rel="stylesheet" href="assets/css/register_style.css">
 </head>
 
@@ -39,7 +39,7 @@ require 'includes/form_handlers/login_handler.php'; //login php
     <div class="wrapper">
         <div class="login-box">
             <div class="login_header">
-                <h1>Facebook</h1>
+                <h1>Social Media</h1>
                 <p>Login or sign up below!</p>
             </div>
             <div id="first">
