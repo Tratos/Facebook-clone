@@ -10,6 +10,11 @@ The most complete PHP application.
 Original Projekt by: https://github.com/ristotoldsep/
 
 Reverse Engineering: MySQL Database [by Eisbaer]
+Fix MySQL register save error: [by Xevrac]
+
+
+Login: User/Mail: test@test.loc Password: test 
+
 
 ## Project images
 
